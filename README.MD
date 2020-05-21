@@ -1,8 +1,9 @@
 # Big-Data-Analytics
 
-This Project is about how Big Data technologies like Hive, HDFS & Spark can be used for effective Data Storage & Processing. In this I have used the MovieLens data sets. They were initially collected by the GroupLens Research Project at the University of Minnesota.
+This Project is about how Big Data technologies like Hive, HDFS & Spark can be used for effective Data Storage & Processing. I have used Hortonworks Sandbox for Hadoop HDFS storage and Hive processing while I have used Ubuntu for implementing Spark. Both the Operating systems were installed on to the Oracle VM VirtualBox.
  
-This data set consists of:
+*The data set used:*
+I have used the MovieLens data sets. They were initially collected by the GroupLens Research Project at the University of Minnesota. It consists of -
 * 100,000 ratings (1-5) from 943 users on 1682 movies. 
 * Each user has rated at least 20 movies. 
 * Simple demographic info for the users (age, gender, occupation, zip)
